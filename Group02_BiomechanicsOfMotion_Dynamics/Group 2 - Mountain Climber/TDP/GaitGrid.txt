@@ -1,0 +1,78 @@
+PARAMETER DESCRIPTION	Total/Left	Right
+Step Count	41	 
+Distance	2428,1	 
+Ambulation Time	21,33	 
+Velocity	113,8	 
+Cadence	115,3	 
+Normalized Velocity  	,	 
+Step Time Differential	0,005	 
+Step Length Differential	1,775	 
+Cycle Time Differential	0,002	 
+Functional Amb. Profile	,	 
+Leg Length(cm)	,	,
+Step Time(sec)	0,523	0,518
+Step Length(cm)	58,313	60,088
+Step Extremity(ratio)	,	,
+Cycle Time(sec)	1,04	1,042
+Stride Length(cm)	119,181	119,043
+HH Base Support(cm)	7,729	7,734
+Swing Time(sec)	0,431	0,425
+Stance Time(sec) 	0,608	0,617
+Single Supp. Time(sec)	0,425	0,431
+Double Supp. Time(sec)	0,19	0,19
+Swing % of Cycle	41,4	40,8
+Stance % of Cycle	58,5	59,2
+Single Supp % Cycle	40,9	41,4
+Double Supp % Cycle	18,3	18,2
+Toe In / Out	-1,-	4,8
+HeelOffOn Time	0,144	0,143
+HeelOffOn Perc	13,8	13,7
+Double Supp Load Time	0,095	0,093
+Double Supp Load %GC	9,1	8,9
+Double Supp Unload Time	0,095	0,097
+Double Supp Unload %GC	9,1	9,3
+Stride Velocity	114,705	114,373
+Step Len Std Dev	2,374	2,166
+Step Time Std Dev	0,012	0,014
+Stride Length Std Dev	3,774	3,482
+Stride Time Std Dev	0,022	0,023
+Swing Time Std Dev	0,014	0,009
+Stance Time Std Dev	0,018	0,019
+Stride Velocity Std Dev	4,909	5,334
+Single Supp Time Std Dev	0,009	0,014
+Double Supp Time Std Dev	0,016	0,018
+Heel Off On Std Dev	0,027	0,024
+Supp Base On Std Dev	1,66	2,479
+Foot Length	22,8	22,8
+Foot Width	7,522	7,301
+Standardize Amb Ti	,	,
+Trigger 1 First (0/1)	,	,
+Trigger 2 First (0/1)	,	,
+Trigger 1 Last (0/1)	,	,
+Trigger 2 Last (0/1)	,	,
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+ 		
+ 		
+ 		
+Temporal Data for Id # 97 Test # 1		
+Pt Id: 		
+Patient Name: Yamamoto, Pryscillia 		
+Test Date: Test # 1		
+Research Ref: 		
+Comment: 		

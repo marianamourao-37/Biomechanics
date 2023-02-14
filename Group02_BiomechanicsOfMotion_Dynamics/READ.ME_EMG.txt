@@ -1,0 +1,29 @@
+Biomechanics of Movement 2020/2021 
+Project of Dynamic Analysis of Human Movement: Gait and Mountain Climber exercise
+
+Ana Lopes (98587)
+Daniel Galhoz (90791)
+Mariana Mourão (98473) 
+Rita Almeida (90180)
+
+In order to read the EMG data and obtain the results in plots you must follow these steps:
+
+1ºstep->Open the Read_EMG.m script in MATLAB
+
+2ºstep-> Select one file regarding the movement you want to analyse.
+Note: You just have to choose between 'PD2_data_rm.tsv' or 'Mountain Climber_data_rm.tsv'
+
+3ºstep->When selecting the file, it will appear a question if you want to analyse the 
+raw EMG data (without normalization), the raw RMS data or the EMG normalized data, by
+writing, EMG, RMS or Normalized_EMG_RMS_data, respectively.
+
+4ºstep->After the selection of the data to analyse, it will appear 4 subplots regarding the data choosen.
+
+the mentioned function is inside the folder named Implementation_Dynamic_Analysis.
+
+     Please take into consideration that for each of the steps mentioned, the choice of the aforementioned 
+files will lead to the analysis of the motion selected. 
+     For that reason, if it is intended to analyse the other movement, please repeat the second step, 
+chossing the other option.
+
+
